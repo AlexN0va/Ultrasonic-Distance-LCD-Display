@@ -1,3 +1,4 @@
 # Ultrasonic-Distance-LCD-Display
 
-#ifimfirmfir
+
+Build a Simple distance measurer that displays in both inches and centimeters through an LCD screen
