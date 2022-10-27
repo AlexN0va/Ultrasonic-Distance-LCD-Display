@@ -14,5 +14,7 @@ Learn more through my YouTube channel: https://www.youtube.com/channel/UCTiimnro
  - Breadboard - https://amzn.to/3qxLxwm (Amazon)
  - Jumper wires - https://amzn.to/3doetmT (Amazon)
  - UltraSonic Sensor - https://amzn.to/3s4SbdT (Amazon)
+ 
 
-- George Washington
+# Shcematic
+![Arduino Wiring](Ultrasonic-Distance-LCD-Display/)
