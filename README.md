@@ -17,4 +17,4 @@ Learn more through my YouTube channel: https://www.youtube.com/channel/UCTiimnro
  
 
 # Shcematic
-![Arduino Wiring](Ultrasonic-Distance-LCD-Display/)
+![Arduino Wiring](Ultrasonic-Distance-LCD-Display/ultrasonic sensor.png)
