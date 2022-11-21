@@ -16,7 +16,7 @@ Learn more through my YouTube channel: https://www.youtube.com/channel/UCTiimnro
  - UltraSonic Sensor - https://amzn.to/3s4SbdT (Amazon)
  
 
-# Shcematic
+# Schematic
 ![Arduino Wiring](https://github.com/AlexN0va/Ultrasonic-Distance-LCD-Display/blob/main/ultrasonic%20sensor.png)
 
 
