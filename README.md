@@ -14,7 +14,13 @@ Learn more through my YouTube channel: https://www.youtube.com/channel/UCTiimnro
  - Breadboard - https://amzn.to/3qxLxwm (Amazon)
  - Jumper wires - https://amzn.to/3doetmT (Amazon)
  - UltraSonic Sensor - https://amzn.to/3s4SbdT (Amazon)
- 
+
+# About
+Ultrasonic sensors are exciting electronics. They send and sense sound waves. The application of ultrasonic sensors is vast from wall detectors to creating a digital ruler. This simple project uses an Arduino and other accessible components to create a distance sensor. 
+
+
+# Watch a demonstration
+https://youtu.be/LpeNo_oPDwk
 
 # Schematic
 ![Arduino Wiring](https://github.com/AlexN0va/Ultrasonic-Distance-LCD-Display/blob/main/ultrasonic%20sensor.png)
